@@ -1,0 +1,31 @@
+EXAMEN PRACTICO:
+
+1: ¿CUANTAS CLASES TIENE EL PROYECTO?
+El proyecto tiene tres clases(animal, zoologico, familia)
+
+2: ¿EN CUAL CLASE SE DEFINE EL PROGRAMA PRINCIPAL?
+El programa principal se define en la clase "Zoologico"
+
+3: ¿CUANTOS OBJETOS DE LA CLASE ANIMAL SE CREAN EN LA CLASE PRINCIPAL?
+De la clase "Animal" se crean dos objetos
+
+4: ¿CUANTOS Y CUALES SON LOS ATRIBUTOS DE LA CLASE ANIMAL?
+Son tres atributos, los cuales son: "Nombre", "Peso", "Genero"
+
+5: ¿CUALES ATRIBUTOS DE LA CLASE ANIMAL SON PRIMITIVOS?
+Los atributos primitivos de la clase animal son: "Nombre" y "Genero"
+
+6: ¿QUE PASA SI ELIMINANOS LA LINEA 17 DE LA CLASE ZOOLOGICO?
+No se crea la pareja, por lo tanto si hay un gran cambio si eliminamos la linea 17
+
+7: ¿CUANTOS METODOS TIENE LA CLASE FAMILIA?
+La clase familia tiene cuatro metodos
+
+8: ¿CUANTOS PARAMETROS TIENE EL METODO "tenerHijo()" DE LA CLASE FAMILIA?
+Tiene un parametro: "STRING NOMBRE"
+
+9: ¿CUANTOS ATRIBUTOS INICIALIZA EL CONSTRUCTOR DE LA CLASE FAMILIA?
+Tiene tres atributos inicialistas
+
+10: ¿QUE TIPO DE RETORNO TIENE EL METODO "tenerHijo()"?
+No tiene ningún retorno
